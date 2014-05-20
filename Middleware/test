@@ -1,0 +1,6 @@
+require './GestorDW.rb'
+gestordw = GestorDW.new()
+##gestordw.clearCollection('Quiebre')
+##gestordw.clearCollection('Ventas')
+##gestordw.findAll('Quiebre')
+gestordw.findAll('Ventas')
