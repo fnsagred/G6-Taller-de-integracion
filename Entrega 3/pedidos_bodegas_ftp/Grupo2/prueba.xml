@@ -1,0 +1,13 @@
+<Pedidos fecha="YYYY-MM-DD" hora="hh:mm"> 
+	<Numero_grupo> String: Numero grupo </Numero_grupo> 
+	<id_bodega_recepcion> String: id grupo recepcion </id_bodega_recepcion> 
+	<Pedido> 
+		<sku> string</sku> 
+		<cantidad unidad="string"> double </cantidad> 
+	</Pedido> 
+	<Pedido> 
+		<sku> string</sku> 
+		<cantidad unidad="string"> double </cantidad> 
+	</Pedido> 
+
+</Pedidos>
